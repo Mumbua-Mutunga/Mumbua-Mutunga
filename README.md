@@ -25,6 +25,7 @@ Languages
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=red)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
