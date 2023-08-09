@@ -26,6 +26,10 @@ Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=red)
 
+R Packages
+Tidyverse package - ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+SF package - ![Tidyverse](https://img.shields.io/badge/Tidyverse-5B9BD5?style=for-the-badge&logo=tidyverse&logoColor=white)
+
 ML/DL
 
 ![matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
