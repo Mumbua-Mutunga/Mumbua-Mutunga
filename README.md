@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm @Mumbua-Mutunga</h1>
 <h3 align="center">Medical Researcher and data scientist</h3>
 
+<div align = "center">
+ <img src="https://giphy.com/gifs/animation-design-26BGJ6bWN8C950AnK" width = "600", height= "300"/>
+</div>
+
 - 🔭 I’m currently working on **Rabies**
 
 - 🌱 I’m currently learning **health facility catchment**
