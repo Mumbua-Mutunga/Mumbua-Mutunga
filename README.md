@@ -2,7 +2,7 @@
 <h3 align="center">Medical Researcher and data scientist</h3>
 
 <div align = "center">
- <img src = "https://giphy.com/gifs/foxadhd-artists-on-tumblr-violet-bruce-7en2uP56Gc6I" width = "600", height= "300"/>
+  <img src = "https://giphy.com/gifs/foxadhd-artists-on-tumblr-violet-bruce-7en2uP56Gc6I" width = "600", height= "300"/>
 </div>
 
 - 🔭 I’m currently working on **Rabies**
